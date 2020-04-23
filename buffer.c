@@ -4,7 +4,7 @@ Compiler : MS Visual Studio 2015
 Author : Alexandre Dagher 040868750
 Course : CST 8152 – Compilers, Lab Section : 11
 Assignment : 1
-Date : October 17 2019
+Date : October 18 2019
 Professor : Sv.Ranev
 Purpose : Creating a Buffer, to read in files with the chose of different operational modes ( muiltiplecative, self incrementing, fixed)
 Function list : b_allocate(), b_addc(), b_clear(), b_free(), b_isfull(), b_limit(), b_capacity(), b_mark(),
