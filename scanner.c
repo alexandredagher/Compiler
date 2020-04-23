@@ -12,7 +12,7 @@ Function list : char_class(), get_next_state(), iskeyword(), scanner_init(), mal
 /* The #define _CRT_SECURE_NO_WARNINGS should be used in MS Visual Studio projects
 * to suppress the warnings about using "unsafe" functions like fopen()
 * and standard sting library functions defined in string.h.
-* The define does not have any effect in Borland compiler projects.
+* The define does not hve any effect in Borland compiler projects.
 */
 #define _CRT_SECURE_NO_WARNINGS
 
